@@ -6,7 +6,7 @@ guide:
     3. we have to choose high RAM hardware on Google Drive to run the program 
 Explanations of sample output:
     the output is ten adjectives/adjective phrases with the highest scores which mean they are the most indicative ones. One example is as fellows:
-             Indicative adjective phrases and their scores are as follows:
+      	Indicative adjective phrases and their scores are as follows:
 	italian      1.097039
 	garlic       0.791087
 	authentic    0.195222
